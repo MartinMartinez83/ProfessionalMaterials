@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.App-profile {
+  height: 200px;
+}
+
+.App-header {
+  background-image: url("./slc.jpg");
+  height: 300px;
+  padding: 100px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
